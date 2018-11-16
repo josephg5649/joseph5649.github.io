@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "YeeT_MaStEr 69's weekly post"
-date: 2018-10-26
+date: 2018-10-19
 ---
 # Part 1: The first bentchmark. 
 There has been alot we have learned from the beginning of school to now. We started off small coding the computer to solve a a simple math equation, this simple lession taught us that order matters in coding and if something was in the wrong spot the code must be re-done. We had then moved on to learning how to code shapes and what the computer reads/does when given certan comands numbers are required to get the shape 1 desires. After a week dedicated to that we then proceeded to code a flag we learned then how to give a code of information a nick name by defining th shape. We also learned how to overlay shapes using "put-image". We then finaly come to try to code a game similar to the one we played in the begining by using images to define the danger, player, and target.
