@@ -9,3 +9,4 @@ WHITE
 (define BLUE2(rectangle 60 350 "solid" "Blue"))
 (put-image(rotate 0 (rectangle 500 350 "solid" "red"))100 50 (rectangle 500 75 "solid" "white"))
 Image wasn't 
+p
